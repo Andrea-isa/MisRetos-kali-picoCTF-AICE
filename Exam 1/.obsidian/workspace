@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "298589c7c3be923b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd6d8cb2e223746e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "picoCTF/2022/09- PW Crack 3.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77b5c0548e17c885",
+    "type": "split",
+    "children": [
+      {
+        "id": "7136e6fd8616df57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cfc86a68441b3bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c9ad6dbabfc5f0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de69b7706a24a6ec",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "right": {
+    "id": "ab1da4b597411b72",
+    "type": "split",
+    "children": [
+      {
+        "id": "f041b4337ac9de95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76899f1bd488ef73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "picoCTF/2022/09- PW Crack 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a91c25212d0904e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "picoCTF/2022/09- PW Crack 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b43c2f6ed1f9906",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "591aa8d111b9b352",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "picoCTF/2022/09- PW Crack 3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dd6d8cb2e223746e",
+  "lastOpenFiles": [
+    "picoCTF/2022/08- PW Crack 2.md",
+    "picoCTF/2022/07- PW Crack 1.md",
+    "picoCTF/2022/06- Glitch Cat.md",
+    "picoCTF/2022/05- fixme2.py.md",
+    "picoCTF/2022/04- fixme1.py.md",
+    "picoCTF/2022/03- Codebook.md",
+    "picoCTF/2022/02- convertme.py.md",
+    "picoCTF/2022/01- runme.py.md",
+    "picoCTF/2022/09- PW Crack 3.md",
+    "picoCTF/2021/06- Magikarp Ground Mission.md"
+  ]
+}
